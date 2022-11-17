@@ -1,0 +1,71 @@
+body {
+	padding-left: 20px;
+    padding-top:30px;
+    margin-top: 30px;
+
+	font-family: sans-serif;
+	background: url() no-repeat;
+	background-size: cover;
+    background-color:white;
+    color: green;
+}
+.head{
+    padding-left: 25%;
+    padding-right: 25%;
+    margin-top: 1px;
+    align-content: center;
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 800;
+}
+.test{
+    color: green;
+}
+.user{
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 30px;
+    margin-top: 1px;
+    text-align: center;
+    align-content: center;
+    color: black;
+    font-size: large;
+    font-weight: 400;
+}
+.login{
+    padding-left: 20px;
+}
+.textbox input {
+	border: none;
+	outline: none;
+	background: none;
+	font-size: 18px;
+	margin: 0 10px;
+}
+.textbox {
+    max-width: 400px;
+	overflow: hidden;
+	font-size: 20px;
+	padding: 8px 0;
+	margin: 8px 0;
+	border-bottom: 1px solid #191970;
+}
+.button {
+    max-width: 100px;
+    width: fit-content;
+    align-content: center;
+    margin-left: 10%;
+	color: #ffffff;
+	background: none #191970;
+	border: none;
+	border-radius: 6px;
+	font-size: x-large;
+    font-weight: 900;
+	cursor: pointer;
+	margin: 12px 0;
+}
+.submit{
+    padding-left: 200px;
+    max-width: 100px;
+}
